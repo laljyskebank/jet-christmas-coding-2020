@@ -30,7 +30,7 @@ Det er et standard Angular projekt, som er oprettet ud fra Angular CLI værktøj
 
 ---
 ## Projekt sider
-Følgende beskrives kort de enkelte sider på websitet. Alle sider benytter en Kirby page, hvilket giver et ensartet udtryk på alle sider. Kirby page giver endvidere mulighed for at konfigurere en tilbage funktion, således man får fornemmelsen af et flow. 
+Følgende beskrives kort de enkelte sider på websitet. Alle sider benytter en Kirby page, hvilket giver et ensartet udtryk. Kirby page giver endvidere mulighed for at konfigurere en tilbage funktion, således man får fornemmelsen af et flow. 
 
 ### Velkommen
 **Velkommen** siden er landingpage for websitet. Den består af en kort beskrivelse af websitet og en knap der navigerer til **Betal regning** siden.
@@ -39,12 +39,12 @@ Komponenten er i mappen  ``` src/app/home ```
 
 ### Betal regning
 **Betal regning** siden giver mulighed for brugeren kan indtaste oplysninger omkring en betaling. Her er 
-benyttet Kirby komponenter i videst muligt omfang. Det er muligt at benytte Kirby komponenter i kombination med egen HTL/CSS kode, hvilket er benyttet på denne side.
+benyttet Kirby komponenter i videst muligt omfang. Det er muligt at bruge Kirby komponenter i kombination med egen HTL/CSS kode, hvilket er benyttet på denne side.
 
 Komponenten er i mappen  ``` src/app/pay-bill ```
 
 ### Betaling registreret
-**Betaling registreret** er kvittering side, med en opsummering af ens betaling. 
+**Betaling registreret** er en kvittering side, med en opsummering af ens betaling. 
 
 Komponenten er i mappen  ``` src/app/receipt ```
 
