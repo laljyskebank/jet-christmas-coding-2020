@@ -16,7 +16,7 @@ For at komme igang med projektet skal node modules, som er angivet i package.jso
 
 Efter endt installation, er det muligt at starte projektet ved brug af kommandoen
 
-```npm start```
+```$ npm start```
 
 Dette vil starte en udviklingsserver og websitet kan vises i en browser på adressen
 
